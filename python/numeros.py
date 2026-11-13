@@ -1,0 +1,8 @@
+print("=====Bienvenidos=====")
+a =input("ingresa el primer número: ")
+b =input("ingresa el segundo número: ")
+a =int(a)
+b =int(b)
+print("la multiplicación es : ",a*b)
+print("la división es :",a/b)
+print("============Gracias============")
